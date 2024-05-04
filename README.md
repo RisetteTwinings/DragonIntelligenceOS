@@ -1,2 +1,2 @@
 # DragonIntelligenceOS
-A Coding Frame For  Aeronautics Electrionic System
+A Coding Frame For Avionics System
